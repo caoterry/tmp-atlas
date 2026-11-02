@@ -3,10 +3,11 @@
 **What's inside every factory preset, which amp to pick for which job, and what
 the knobs really do**, based on measuring the unit itself.
 
-I own a Tone Master Pro and kept wanting answers the manual doesn't give. So I
-had a computer drive the unit over USB and measure it, one model at a time, at
-firmware 1.8.58. This page is the useful part in plain language; the raw numbers
-are at the bottom for anyone who wants them.
+I own a Tone Master Pro and I'm still learning guitar. I often couldn't hear
+what a block or a knob was really doing, and the manual doesn't say, so I
+measured it: a computer drove the unit over USB and tested it one model at a
+time, at firmware 1.8.58. This page is the useful part in plain language; the
+raw numbers are at the bottom for anyone who wants them.
 
 Not affiliated with or endorsed by Fender. No Fender files in this repo.
 
@@ -123,11 +124,18 @@ blocks with their controls), [data/](data/) (raw JSON), and a cabinet comparison
 
 ## Feedback
 
-What should be measured next? Something look wrong? Open an issue.
+What should be measured next? Something look wrong? Post in
+[Discussions](https://github.com/caoterry/tmp-atlas/discussions) or open an issue.
+
+Want to share it? [This image](charts/share_amp_ladder.png) has the title and the
+link built in.
 
 ## License
 
-Data, charts and text: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+Data, charts and text: [CC BY 4.0](LICENSE).
 Fender and Tone Master are trademarks of Fender Musical Instruments Corporation;
 other product names belong to their owners. Model names are shown as the unit
 displays them.
+
+---
+Made by [Terry Cao](https://github.com/caoterry). Measure, don't guess.
