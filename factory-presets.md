@@ -48,8 +48,11 @@ G3: Large Hall Reverb
 **012 Maximus Twin** — `gtrSeries`  
 G1: Teardrop Wah *(off)* → Chorus *(off)* → Uni-Verse Vibe *(off)* → Phaser 90 *(off)* → Maximus Drive → '65 Twin Reverb → Digital Delay *(off)*
 
-**013 Maximus Twin** — `gtrSeries`  
-G1: Teardrop Wah *(off)* → Chorus *(off)* → Uni-Verse Vibe *(off)* → Phaser 90 *(off)* → Maximus Drive → '65 Twin Reverb → Digital Delay *(off)*
+**013 Royal Tea** — `gtrParallel1`  
+G1: Phaser 90 *(off)* → Simple Gate → Ranger Boost  
+G2: UK30 Normal  
+G3: UK30 Normal  
+G4: Large Room Reverb
 
 **014 Chick'n Pick'n** — `gtrParallel1`  
 G1: Pedal Comp → Nashville Overdrive *(off)*  
@@ -93,10 +96,11 @@ G1: Teardrop Wah *(off)* → Phaser 90 *(off)* → Chorus *(off)* → Greenbox 8
 G2: 4x12 EVH 5150 IIIS  
 G3: 4x12 EVH 5150 IIIS
 
-**023 Twin Fried EVH** — `gtrParallel1`  
-G1: Teardrop Wah *(off)* → Phaser 90 *(off)* → Chorus *(off)* → Greenbox 8 *(off)* → '65 Twin Reverb (Amp Only) *(off)* → Forge 100 → EVH 5150 IIIS 6L6 Blue *(off)* → Digital Delay *(off)* → Small Hall Reverb  
-G2: 4x12 EVH 5150 IIIS  
-G3: 4x12 EVH 5150 IIIS
+**023 Vauxhall** — `gtrParallel1`  
+G1: Mythic Drive → UK30 Brilliant  
+G2: Memory Delay  
+G3: Studio Delay  
+G4: Modulated Large Hall Reverb
 
 **024 Wide Eddie** — `gtrParallel1`  
 G1: Phaser 90 *(off)* → '70s Flanger *(off)* → EVH 5150 IIIS 6L6 Blue  
@@ -612,9 +616,11 @@ G4: Stereo Tape Echo → Small Hall Reverb
 **155 Gilmourish** — `gtrSeries`  
 G1: Pedal Comp → Rotary Speaker 147 *(off)* → Mythic Drive II *(off)* → Tube OD *(off)* → Big Apple Fuzz *(off)* → '65 Twin Reverb → EQ-7 Graphic → Stereo Chorus *(off)* → Studio Delay → Large Hall Reverb
 
-**156 Janes Habitual** — `gtrSeries`  
-G2: Dynamic Compressor *(off)* → Custom Wah *(off)* → Nashville Overdrive *(off)* → JC Clean *(off)* → British 800 → Stereo Chorus *(off)* → EQ-7 Graphic *(off)* → Boost *(off)* → Digital Delay *(off)*  
-G4: Stereo Tape Echo → Small Hall Reverb
+**156 Bassman Brit30 Bliss** — `gtrParallel1`  
+G1: Simple Compressor *(off)* → Nashville Overdrive *(off)* → Little Rock Phaser *(off)*  
+G2: '59 Bassman Custom  
+G3: UK30 Brilliant  
+G4: Stereo Harmonic Tremolo *(off)* → Stereo Tape Echo *(off)* → Modulated Small Hall Reverb *(off)*
 
 **157 British Horsie** — `gtrParallel1`  
 G1: Mythic Drive II *(off)*  
@@ -622,14 +628,14 @@ G2: UK30 Brilliant
 G3: British 800  
 G4: Boost *(off)* → Tape Echo *(off)* → Large Hall Reverb
 
-**158 Gilmourish** — `gtrSeries`  
-G1: Pedal Comp → Rotary Speaker 147 *(off)* → Mythic Drive II *(off)* → Tube OD *(off)* → Big Apple Fuzz *(off)* → '65 Twin Reverb → EQ-7 Graphic → Stereo Chorus *(off)* → Studio Delay → Large Hall Reverb
+**158 British Duo** — `gtrParallel1`  
+G1: Mythic Drive II *(off)* → Round Fuzz - Germanium *(off)* → Rocket Man  
+G2: UK30 Brilliant  
+G3: British 800  
+G4: Tape Echo *(off)* → Large Hall Reverb
 
-**159 Bassman Brit30 Bliss** — `gtrParallel1`  
-G1: Simple Compressor *(off)* → Nashville Overdrive *(off)* → Little Rock Phaser *(off)*  
-G2: '59 Bassman Custom  
-G3: UK30 Brilliant  
-G4: Stereo Harmonic Tremolo *(off)* → Stereo Tape Echo *(off)* → Modulated Small Hall Reverb *(off)*
+**159 46 And 2 Flange** — `gtrSeries`  
+G1: Pedal Comp → '70s Flanger → Bass Overdrive → EQ-7B Bass Graphic → Super Bassman Vintage → Dynamic Delay
 
 **160 Im The One Too** — `gtrParallel2`  
 G1: Phaser 90 *(off)* → '70s Flanger *(off)* → Mythic Drive II  
@@ -801,8 +807,8 @@ G1: Pedal Comp → Stereo Chorus *(off)* → Rotary Speaker 147 *(off)* → Myth
 **205 Mello Flute** — `gtrSeries`  
 G1: Cerberus → Triple-Double Chorus → Stereo Tape Echo → Cloud Reverb → Stereo Digital Hold Delay
 
-**206 PF Hiway Pulse** — `gtrSeries`  
-G1: Pedal Comp → Stereo Chorus *(off)* → Rotary Speaker 147 *(off)* → Mythic Drive II *(off)* → Tube OD *(off)* → Big Apple Fuzz *(off)* → Hiway 105 → EQ-7 Graphic → Studio Delay → Large Hall Reverb
+**206 Comfortable Fuzz** — `gtrSeries`  
+G1: Big Green Fuzz → Hiway 105 → Stereo Chorus → Studio Delay → Small Room Reverb
 
 **207 Marble Spill** — `gtrSeries`  
 G1: Cerberus → Polyhedron Pitch Delay → Granular Arpeggiator → Stereo Digital Hold Delay → Cloud Reverb

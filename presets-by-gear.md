@@ -8,21 +8,21 @@ Firmware 1.8.58. Only blocks that are switched **on** when the preset loads are 
 
 **British Plexi** (29): 004 Summer Of Jimi, 008 Between Oceans, 010 Cliff Diving, 015 Ice Cold Shot, 021 Spoon Fool, 031 Brit with Fuzz, 035 Tone Remains the Same, 041 Raw Power, 047 Pumpkin Smasher, 061 Dinosaurs Out There, 065 Jailbreakin Lizzy, 072 ZZ Afterburned, 077 Wobbly, 078 Fuzzy Floyd, 079 Pristine Perspex, 081 Happy Valentine, 083 Trace Hombres, 085 Freeway To Heck, 087 Lime Lights, 091 Ziggys Martian Spider, 096 Run with the Phaser, 107 Blurry Chem Worlds, 110 Summers Bottle, 135 Arrow Smith Rocks, 146 Live Free!, 190 Oh, U Ate One Too, 221 The Sapphire Blues, 239 Han Valen 78, 251 Back Fer More
 
-**'65 Twin Reverb** (27): 012 Maximus Twin, 013 Maximus Twin, 018 Slow Burnin, 020 Trademark Clean, 027 Wicked Tone, 029 Starfall, 030 Alien Artifacts, 032 Clean Machine, 034 Fascinating Cure, 046 How Late Is Then?, 062 Surf Guitar King, 071 Rocker Billy, 075 Freaky Rodgers, 084 Anarchy Pistols, 086 Crowded Dream House, 088 Modern Pop Clean, 090 Double Harmonic Trem, 111 Salvation Armee, 124 Clean Twin, 134 Another Brick Layer Pt1, 138 Desert Roses Live Rig, 145 Better Let Yellow, 151 The Dude Abides, 155 Gilmourish, 158 Gilmourish, 161 Glooping Memories, 197 Slow-Fi
+**'65 Twin Reverb** (25): 012 Maximus Twin, 018 Slow Burnin, 020 Trademark Clean, 027 Wicked Tone, 029 Starfall, 030 Alien Artifacts, 032 Clean Machine, 034 Fascinating Cure, 046 How Late Is Then?, 062 Surf Guitar King, 071 Rocker Billy, 075 Freaky Rodgers, 084 Anarchy Pistols, 086 Crowded Dream House, 088 Modern Pop Clean, 090 Double Harmonic Trem, 111 Salvation Armee, 124 Clean Twin, 134 Another Brick Layer Pt1, 138 Desert Roses Live Rig, 145 Better Let Yellow, 151 The Dude Abides, 155 Gilmourish, 161 Glooping Memories, 197 Slow-Fi
 
-**British 800** (21): 017 Under Locking Key, 058 Pieceful Mind, 067 Walk That Way, 068 Brit 800 Rig, 070 Rat Invasion, 074 Barking Moon, 089 Peaceful Deth, 099 Southbound Heaven, 100 Amongst the Leaving, 108 Monkeys Wanna Know?, 133 80s Whiskey Hunter, 143 Screaming For The Priest, 149 Shallow Loomer, 150 Soaring Lead Crunch, 154 Janes Habitual, 156 Janes Habitual, 157 British Horsie, 160 Im The One Too, 202 Keepin Up With The Jones, 233 Brit High Gain, 234 Conjuring Peace
+**British 800** (21): 017 Under Locking Key, 058 Pieceful Mind, 067 Walk That Way, 068 Brit 800 Rig, 070 Rat Invasion, 074 Barking Moon, 089 Peaceful Deth, 099 Southbound Heaven, 100 Amongst the Leaving, 108 Monkeys Wanna Know?, 133 80s Whiskey Hunter, 143 Screaming For The Priest, 149 Shallow Loomer, 150 Soaring Lead Crunch, 154 Janes Habitual, 157 British Horsie, 158 British Duo, 160 Im The One Too, 202 Keepin Up With The Jones, 233 Brit High Gain, 234 Conjuring Peace
 
-**UK30 Brilliant** (15): 003 Cutting Edge, 006 Belladonna, 014 Chick'n Pick'n, 036 Ambient Void, 045 Fat Brit Lead, 057 Dang the Torpedos, 059 British Stereo Overload, 101 Mr Bright Smile, 104 Covet Thy Tone, 105 Tame Elephant, 147 Phantom Astronaut, 153 Way Mysterious, 157 British Horsie, 159 Bassman Brit30 Bliss, 192 Ascending Crunch
+**UK30 Brilliant** (17): 003 Cutting Edge, 006 Belladonna, 014 Chick'n Pick'n, 023 Vauxhall, 036 Ambient Void, 045 Fat Brit Lead, 057 Dang the Torpedos, 059 British Stereo Overload, 101 Mr Bright Smile, 104 Covet Thy Tone, 105 Tame Elephant, 147 Phantom Astronaut, 153 Way Mysterious, 156 Bassman Brit30 Bliss, 157 British Horsie, 158 British Duo, 192 Ascending Crunch
 
 **'65 Princeton Reverb** (10): 016 Stereo Princetons, 038 Angry Prince Tone, 077 Wobbly, 097 Baron Nass, 118 Wandering Star, 123 Slipstream, 173 Undercurrent, 216 Edge Of Oscillation, 244 Step Trem, 248 Twin Princetons
 
 **EVH 5150 IIIS 6L6 Blue** (9): 002 Unchain Ed, 017 Under Locking Key, 024 Wide Eddie, 028 Malachi Crunch, 070 Rat Invasion, 092 Alice Dirty Bones, 126 EVH 5150 Blue Channel, 137 Damaged Orion, 191 For Unlawful What !!!
 
-**Forge 100** (9): 022 Twin Fried EVH, 023 Twin Fried EVH, 028 Malachi Crunch, 044 Going To Pot, 117 Tears of Zack, 139 Extreme Graffiti, 181 Double Tracked Dual Cabs, 182 Double Tracked, 193 Damn That Preset
-
 **JC Clean** (9): 042 Cobalt Blue, 073 Krystal Kastles, 082 Heaven Or Los Feliz, 103 Sanctuary, 109 Purple Reign Prints, 112 Hysterical Leopard, 220 The Columns Of Durutti, 225 Fibonacci Multiply, 245 Synthverb
 
 **British Jubilee Lead** (8): 033 Rage Again, 051 Motley Cruise, 059 British Stereo Overload, 063 BC Salvation, 076 Madman's Diary, 119 Appetite For Roses, 160 Im The One Too, 193 Damn That Preset
+
+**Forge 100** (8): 022 Twin Fried EVH, 028 Malachi Crunch, 044 Going To Pot, 117 Tears of Zack, 139 Extreme Graffiti, 181 Double Tracked Dual Cabs, 182 Double Tracked, 193 Damn That Preset
 
 **Double Wreck** (6): 026 Wrecked Oh!, 043 Nice Knowing You, 094 Sound Unknown, 120 90s Metal Shred, 238 Grunt Wreck, 247 Tight Might
 
@@ -40,9 +40,11 @@ Firmware 1.8.58. Only blocks that are switched **on** when the preset loads are 
 
 **'65 Deluxe Reverb Blonde NBC** (4): 141 Mason Jar Country, 147 Phantom Astronaut, 186 Dirty Old Organ, 200 Wave Guide
 
-**Hiway 105** (4): 199 Hiway105 Drive, 204 PF Hiway Pulse, 206 PF Hiway Pulse, 210 Who's In Leeds?
+**Hiway 105** (4): 199 Hiway105 Drive, 204 PF Hiway Pulse, 206 Comfortable Fuzz, 210 Who's In Leeds?
 
 **Tangerine RV53** (4): 140 Leviathan Thunder, 146 Live Free!, 152 Thud And Blunder 11, 246 The Architect
+
+**UK30 Normal** (4): 008 Between Oceans, 013 Royal Tea, 039 Crunchy Spin Dry, 057 Dang the Torpedos
 
 **Vibro-King** (4): 055 Vibro Blues, 064 Blues Deluxe, 071 Rocker Billy, 102 Clark Light Bright
 
@@ -51,8 +53,6 @@ Firmware 1.8.58. Only blocks that are switched **on** when the preset loads are 
 **'68 Custom Deluxe Reverb** (3): 232 68 Stratosphere, 241 Pitch Seeker, 250 68 Custom Rock
 
 **Blues Junior** (3): 050 Blues Boost Combo, 056 Blues Senior, 135 Arrow Smith Rocks
-
-**UK30 Normal** (3): 008 Between Oceans, 039 Crunchy Spin Dry, 057 Dang the Torpedos
 
 **Uber** (3): 044 Going To Pot, 122 Uber Duper, 129 Uber Heavy
 
@@ -78,11 +78,13 @@ Firmware 1.8.58. Only blocks that are switched **on** when the preset loads are 
 
 **Rock-Bottom 400** (2): 187 Thunderous Feline, 189 Rock Bottom Drive Chorus
 
+**Super Bassman Vintage** (2): 159 46 And 2 Flange, 172 Super Bassman Vintage
+
 **Tube Preamp** (2): 128 Studio Bass, 130 80s Studio Clean
 
 **'57 Champ** (1): 231 57 Champ
 
-**'59 Bassman Custom** (1): 159 Bassman Brit30 Bliss
+**'59 Bassman Custom** (1): 156 Bassman Brit30 Bliss
 
 **'65 Twin Reverb Blonde** (1): 211 Rack Verb
 
@@ -106,8 +108,6 @@ Firmware 1.8.58. Only blocks that are switched **on** when the preset loads are 
 
 **Super Bassman Overdrive** (1): 171 Super Bassman OD
 
-**Super Bassman Vintage** (1): 172 Super Bassman Vintage
-
 ## Drives, boosts and fuzzes
 
 **Greenbox 8** (23): 005 Puppet Master, 015 Ice Cold Shot, 017 Under Locking Key, 026 Wrecked Oh!, 028 Malachi Crunch, 034 Fascinating Cure, 041 Raw Power, 054 Metropolitan Pt1, 058 Pieceful Mind, 064 Blues Deluxe, 066 Last Plane Home, 070 Rat Invasion, 074 Barking Moon, 084 Anarchy Pistols, 089 Peaceful Deth, 092 Alice Dirty Bones, 095 Stone Age Songs, 098 And James For All, 099 Southbound Heaven, 100 Amongst the Leaving, 117 Tears of Zack, 119 Appetite For Roses, 246 The Architect
@@ -122,17 +122,15 @@ Firmware 1.8.58. Only blocks that are switched **on** when the preset loads are 
 
 **Super Drive** (5): 133 80s Whiskey Hunter, 143 Screaming For The Priest, 150 Soaring Lead Crunch, 234 Conjuring Peace, 251 Back Fer More
 
+**Big Green Fuzz** (4): 040 Fuzz Frenzy, 047 Pumpkin Smasher, 048 Deep Dive, 206 Comfortable Fuzz
+
 **Greenbox 10** (4): 181 Double Tracked Dual Cabs, 182 Double Tracked, 233 Brit High Gain, 244 Step Trem
+
+**Mythic Drive** (4): 008 Between Oceans, 011 Harmonic Swirl, 023 Vauxhall, 174 FX: Pedal Board 1
 
 **Sapphire Drive** (4): 203 Series Multiplication, 213 Amp Over Synth Freeze, 216 Edge Of Oscillation, 221 The Sapphire Blues
 
-**Big Green Fuzz** (3): 040 Fuzz Frenzy, 047 Pumpkin Smasher, 048 Deep Dive
-
 **Enchanter** (3): 025 Solaris, 045 Fat Brit Lead, 176 4CM: OD on Overdrive
-
-**Maximus Drive** (3): 012 Maximus Twin, 013 Maximus Twin, 097 Baron Nass
-
-**Mythic Drive** (3): 008 Between Oceans, 011 Harmonic Swirl, 174 FX: Pedal Board 1
 
 **Rockbox 100** (3): 234 Conjuring Peace, 240 More Feeling, 252 Gated Synthverb
 
@@ -148,13 +146,21 @@ Firmware 1.8.58. Only blocks that are switched **on** when the preset loads are 
 
 **Hard-Clip Distortion** (2): 076 Madman's Diary, 097 Baron Nass
 
+**Maximus Drive** (2): 012 Maximus Twin, 097 Baron Nass
+
 **Mythic Drive II** (2): 160 Im The One Too, 193 Damn That Preset
 
 **Octave Fuzz** (2): 040 Fuzz Frenzy, 102 Clark Light Bright
 
 **Pugilist Distortion** (2): 038 Angry Prince Tone, 113 Event Horizon
 
+**Ranger Boost** (2): 013 Royal Tea, 195 Hiding Away
+
+**Rocket Man** (2): 151 The Dude Abides, 158 British Duo
+
 **SDD-Boost** (2): 225 Fibonacci Multiply, 229 Lead the Way
+
+**Bass Overdrive** (1): 159 46 And 2 Flange
 
 **Big Horn Fuzz** (1): 061 Dinosaurs Out There
 
@@ -169,10 +175,6 @@ Firmware 1.8.58. Only blocks that are switched **on** when the preset loads are 
 **Orangebox** (1): 105 Tame Elephant
 
 **Pinions** (1): 232 68 Stratosphere
-
-**Ranger Boost** (1): 195 Hiding Away
-
-**Rocket Man** (1): 151 The Dude Abides
 
 **Round Fuzz - Germanium** (1): 081 Happy Valentine
 
