@@ -118,7 +118,7 @@ measured yet. Measurements describe the models; they don't replace playing them.
 
 **Files**: [atlas-tables.md](atlas-tables.md) (numbers for all 247 measured
 models), [knobs-tables.md](knobs-tables.md), [models.md](models.md) (all 352
-blocks with their controls), [data/](data/) (raw JSON), and a cabinet comparison:
+blocks with their controls), [data/](https://github.com/caoterry/tmp-atlas/tree/main/data) (raw JSON), and a cabinet comparison:
 
 ![four classic cabinets](charts/cabinets.png)
 
