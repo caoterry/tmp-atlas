@@ -137,4 +137,4 @@ other product names belong to their owners. Model names are shown as the unit
 displays them.
 
 ---
-Made by [Terry Cao](https://github.com/caoterry). Measure, don't guess.
+Made by [Terry Cao](https://github.com/caoterry).
