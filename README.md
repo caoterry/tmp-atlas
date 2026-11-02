@@ -3,9 +3,8 @@
 **What's inside every factory preset, which amp to pick for which job, and what
 the knobs really do**, based on measuring the unit itself.
 
-I own a Tone Master Pro and I'm still learning guitar. I often couldn't hear
-what a block or a knob was really doing, and the manual doesn't say, so I
-measured it: a computer drove the unit over USB and tested it one model at a
+I play through a Tone Master Pro, and I often couldn't tell what a block or a
+knob was really doing. The manual doesn't say, so I measured it: a computer drove the unit over USB and tested it one model at a
 time, at firmware 1.8.58. This page is the useful part in plain language; the
 raw numbers are at the bottom for anyone who wants them.
 
