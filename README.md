@@ -18,8 +18,8 @@ Not affiliated with or endorsed by Fender. No Fender files in this repo.
   of an amp? This lists every factory preset built on it.
 
 The amps Fender used most in the factory presets: '65 Deluxe Reverb (29
-presets), British Plexi (29), '65 Twin Reverb (27), British 800 (21) and
-UK30 Brilliant (15).
+presets), British Plexi (29), '65 Twin Reverb (25), British 800 (21) and
+UK30 Brilliant (17).
 
 ## 2. Which amp for which job
 
